@@ -1,5 +1,6 @@
 # qr_scanner_app
 
+Practice Project.
 A new Flutter application.
 
 ## Getting Started
